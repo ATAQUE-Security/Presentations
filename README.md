@@ -1,6 +1,6 @@
-# ATAQUE Security
+<img src="./assets/ring.png" width="350">
 
-![Logo]()
+# ATAQUE Security
 
 # Welcome to our Presentations repository
 
