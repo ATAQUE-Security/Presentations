@@ -16,4 +16,6 @@
 
 ### Network Topology
 
-<!-- ![Network Topology]() -->
+![Base Topology](./assets/BaseTop.png)
+
+![Nmap scan Topology](./assets/NmapTop.png)
