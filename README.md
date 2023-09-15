@@ -41,11 +41,3 @@ Thank you for joining us in this visual exploration of ATAQUE Security's endeavo
 <img src="./assets/NmapTop.png" width="550">
 
 <img src="./assets/RevisedTop.png" width="550">
-
-<br>
-
-| Repositories | Project Management | Presentations |
-|:----------------------:|:-----------------------:|:----------------------:|
-| [Documentation](https://github.com/ATAQUE-Security/Documentation) | [Trello Board](https://trello.com/b/q4cb2rJl/401d8rt1) | [Slideshow](https://docs.google.com/presentation/d/1U0U4HkPjTmjLndgIuii9MQT_2FryvEBxZkBfMfatCgU/edit?usp=sharing) |
-| [Presentations](https://github.com/ATAQUE-Security/Presentations) | | [Video]() |
-| [Scripts](https://github.com/ATAQUE-Security/Scripts) | | |
